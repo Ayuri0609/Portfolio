@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  width: 750px;
+  margin: 0 auto;
+  background:
+}
+h1{
+  font-size:50px;
+}
+h2{
+  font-size:40px;
+}
+h3{
+  font-size:37.5px;
+}
+li{
+  font-size:27.5px;
+}
